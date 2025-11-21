@@ -113,13 +113,13 @@ Execute the program using runserver command.
             </tr>
             <tr>
                 <th bgcolor="Purple">3</th>
-                <td  bgcolor=" Violet">19EN101</td>
-                <td  bgcolor=" Violet">Communicative English</td>
+                <td  bgcolor=" Violet">EC2309</td>
+                <td  bgcolor=" Violet">Programming Microcontrollers</td>
             </tr>
             <tr>
                 <th bgcolor="Purple">4</th>
-                <td  bgcolor=" Violet">19CY205</td>
-                <td  bgcolor=" Violet">Principle of Chemistry in Engineeing </td>
+                <td  bgcolor=" Violet">19AI602</td>
+                <td  bgcolor=" Violet">CISCO Networking Certifications</td>
             </tr>
             <tr>
                 <th bgcolor="Purple">6</th>
@@ -128,16 +128,16 @@ Execute the program using runserver command.
             </tr>
             <tr>
                 <th bgcolor="Purple">8</th>
-                <td  bgcolor=" Violet">19EY708</td>
-                <td  bgcolor=" Violet">Carrer development skill(Soft skill)</td>
+                <td  bgcolor=" Violet">TSEC250</td>
+                <td  bgcolor=" Violet">Introduction to IoT</td>
             </tr>
         </table>
     </body>
-</html>    
+</html>      
 ```
 
 ## OUTPUT
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/e4b54376-a22f-41d1-8509-9d1d663bbe19" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/b2910a18-306c-4cee-a1de-a8a0e635e973" />
 
 
 ## RESULT
